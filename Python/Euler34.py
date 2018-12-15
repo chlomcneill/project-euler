@@ -22,5 +22,5 @@ def digit_factorials():
             sum_of_curious_numbers += i
     return sum_of_curious_numbers
 
-print digit_factorials()
+print(digit_factorials())
     

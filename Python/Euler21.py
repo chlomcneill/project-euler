@@ -14,8 +14,8 @@ def amicable_nums(limit):
                 list_of_amicable_nums.append(a,b)
     return sum(list_of_amicable_nums)
 
-print amicable_nums(10000)
+print(amicable_nums(10000))
 
-    
+# not working
 
 

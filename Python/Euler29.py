@@ -8,4 +8,4 @@ def distinct_powers(a,b):
                 list_of_distinct_powers.append(x**y)
     return len(list_of_distinct_powers)
 
-print distinct_powers(100,100)
+print(distinct_powers(100,100))

@@ -1,4 +1,4 @@
-path = '/Users/mcneillc/Documents/Project Euler/Python/Text Files/triangles.txt'
+path = '/Users/mcneillc/Documents/project-euler/Python/Text Files/triangles.txt'
 triangles = open(path, 'r')
 
 def listOfStr_to_listOfInt(n):
@@ -27,7 +27,7 @@ def euler102():
             count += 1
     return count
 
-print euler102()
+print(euler102())
 
 
 

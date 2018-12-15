@@ -4,6 +4,6 @@ def euler9():
         for b in range(1,1000):
             for c in range(1,1000):
                 if a+b+c==1000 and a<b and b<c and a*a+b*b==c*c:
-                    print a*b*c
+                    print(a*b*c)
     
 euler9()

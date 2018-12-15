@@ -8,4 +8,6 @@ def nth_prime_number(n):
             num += 2
     return prime_list
 
-print nth_prime_number(6)
+print(nth_prime_number(6))
+
+# not working
