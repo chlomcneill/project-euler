@@ -8,4 +8,4 @@ c=[0]
 for (j,k) in b:
     if j*k > c[0]:
         c[0]=j*k
-print c[0]       
+print(c[0])  
